@@ -1,0 +1,36 @@
+Generic:
+  Browser : {{BROWSER_NAME}}
+  SiteUrl_Admin : {{SITE_URL_ADMIN}}
+  SiteUrl_Tenant : {{SITE_URL_TENANT}}
+  SiteUrl_Vapp : {{SITE_URL_APP}}
+  WelcomeMsg_Admin : {{WELCOME_MSG_ADMIN}}
+  WelcomeMsg_Tenant : {{WELCOME_MSG_TENANT}}
+  WelcomeMsg_Vapp : {{WELCOME_MSG_APP}}
+  ErrorMsg1 : {{ERROR_MSG1}}
+  ErrorMsg2 : {{ERROR_MSG2}}
+  Delay : {{DELAY}}
+  path : {{PATH}}
+  NFS_Version : {{NFS_VERSION}}
+  Alert_Msg_Login_help : {{LOGIN_HELP}}
+  Filer_Name : {{FILER_NAME}}
+  Org_Name : {{TENANT_NAME}}
+  orgVDC_Name : {{VDC_NAME}}
+  vApp_Name : {{APP_NAME}}
+  
+filers_mgmt:
+  filer_vol_list_text1 : {{FILER_VOL_TEXT1}}
+  filer_vol_list_text2 : {{FILER_VOL_TEXT2}}
+  
+volume_mgmt:
+  Vol_Name : {{VOL_NAME}}
+  Aggr_Name : {{AGGR_NAME}}
+  Vol_Unit : {{VOL_UNIT}}
+  Vol_Size : {{VOL_SIZE}}
+  Small_Size_Vol_Name : {{VOL_SMALL_SIZE}}
+  Success_Msg_Vol : {{VOL_SUCCESS_MSG}}
+  
+org_mgmt:
+  Org_Vol_Name : {{ORG_VOL_NAME}}
+  Assign_Success : {{ORG_SUCCESS_MSG1}}
+  Assign_Success2 : {{ORG_SUCCESS_MSG2}}
+  Assign_Remove : {{ORG_RM_MSG1}}
